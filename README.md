@@ -2,7 +2,7 @@
 
 This project proposes a KPD model for the optimal matchings of size two and three for incompatible kidney donor-recipient pairs. The model ensures that each donor-recipient pair is matched with only one other donor-recipient pair, if each other's donors and recipients are medically compatible. 
 
-Our model produced the following optimal matched pairs:
+Our model produced the following optimal matched pairs from the data set found in Red_Raider_Engineers.json:
 
 ('{"Recipient": "B", "Donor": ["A"]}', '{"Recipient": "A", "Donor": ["AB", "B"]}')<br>
 ('{"Recipient": "B", "Donor": ["AB", "A"]}', '{"Recipient": "A", "Donor": ["AB", "B"]}')<br>
